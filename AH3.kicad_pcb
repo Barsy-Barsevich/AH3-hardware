@@ -68,11 +68,11 @@
 			(dxfusepcbnewfont yes)
 			(psnegative no)
 			(psa4output no)
-			(plotreference yes)
+			(plotreference no)
 			(plotvalue yes)
 			(plotfptext yes)
 			(plotinvisibletext no)
-			(sketchpadsonfab no)
+			(sketchpadsonfab yes)
 			(subtractmaskfromsilk no)
 			(outputformat 5)
 			(mirror no)
@@ -2202,7 +2202,12 @@
 			(at 0 0)
 			(size 1.7 1.7)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu"
+				"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
+				"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
+				"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
+				"In29.Cu" "In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 1 "VDD")
 			(pinfunction "Pin_1")
@@ -2213,7 +2218,12 @@
 			(at 2.54 0)
 			(size 1.7 1.7)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu"
+				"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
+				"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
+				"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
+				"In29.Cu" "In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 2 "GND")
 			(pinfunction "Pin_2")
@@ -2224,7 +2234,12 @@
 			(at 0 2.54)
 			(size 1.7 1.7)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu"
+				"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
+				"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
+				"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
+				"In29.Cu" "In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 24 "/SWCLK")
 			(pinfunction "Pin_3")
@@ -2235,7 +2250,12 @@
 			(at 2.54 2.54)
 			(size 1.7 1.7)
 			(drill 1)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu"
+				"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
+				"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
+				"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
+				"In29.Cu" "In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 25 "/SWDIO")
 			(pinfunction "Pin_4")
@@ -5375,7 +5395,12 @@
 			(at 0 0)
 			(size 5 5)
 			(drill 2.5)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu"
+				"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
+				"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
+				"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
+				"In29.Cu" "In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 2 "GND")
 			(pinfunction "1")
@@ -6250,7 +6275,12 @@
 			(at 0 0)
 			(size 5 5)
 			(drill 2.5)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu"
+				"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
+				"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
+				"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
+				"In29.Cu" "In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 2 "GND")
 			(pinfunction "1")
@@ -6376,7 +6406,12 @@
 			(at 0 0)
 			(size 5 5)
 			(drill 2.5)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu"
+				"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
+				"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
+				"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
+				"In29.Cu" "In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 2 "GND")
 			(pinfunction "1")
@@ -6820,7 +6855,12 @@
 			(at 0 0)
 			(size 1.7 1.95)
 			(drill 0.95)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu"
+				"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
+				"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
+				"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
+				"In29.Cu" "In30.Cu"
+			)
 			(remove_unused_layers no)
 			(roundrect_rratio 0.147059)
 			(net 1 "VDD")
@@ -6832,7 +6872,12 @@
 			(at 2.5 0)
 			(size 1.7 1.95)
 			(drill 0.95)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu"
+				"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
+				"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
+				"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
+				"In29.Cu" "In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 2 "GND")
 			(pinfunction "Pin_2")
@@ -6843,7 +6888,12 @@
 			(at 5 0)
 			(size 1.7 1.95)
 			(drill 0.95)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu"
+				"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
+				"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
+				"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
+				"In29.Cu" "In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 13 "/SCL")
 			(pinfunction "Pin_3")
@@ -6854,7 +6904,12 @@
 			(at 7.5 0)
 			(size 1.7 1.95)
 			(drill 0.95)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu"
+				"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
+				"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
+				"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
+				"In29.Cu" "In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 23 "/SDA")
 			(pinfunction "Pin_4")
@@ -6991,7 +7046,12 @@
 			(at 0 0)
 			(size 5 5)
 			(drill 2.5)
-			(layers "*.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu"
+				"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
+				"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
+				"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
+				"In29.Cu" "In30.Cu"
+			)
 			(remove_unused_layers no)
 			(net 2 "GND")
 			(pinfunction "1")
@@ -7344,6 +7404,336 @@
 		(uuid "fd3d7711-66a3-44b4-848b-8b2b91e27e55")
 	)
 	(gr_line
+		(start 146.05 105.55)
+		(end 146.05 106.55)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "0882e7a4-8da0-47a0-bfb3-ce5070a18cbc")
+	)
+	(gr_circle
+		(center 126.95 86.95)
+		(end 129.45 86.95)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Dwgs.User")
+		(uuid "1b7a7204-1f60-478e-8ce3-b519fb895936")
+	)
+	(gr_circle
+		(center 126.95 86.95)
+		(end 128.2 86.95)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Dwgs.User")
+		(uuid "1facd213-2bca-4f0c-8c04-ef52453f2b73")
+	)
+	(gr_line
+		(start 126.95 86.45)
+		(end 126.95 87.45)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "23ee55c4-9015-4318-b967-a09c23c8301d")
+	)
+	(gr_line
+		(start 148.175 84.825)
+		(end 148.4 83.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "296a89fc-a2f0-42e2-a0ce-fb159064c6f3")
+	)
+	(gr_arc
+		(start 132.458364 109.402139)
+		(mid 123.051577 97.892834)
+		(end 129.899998 84.7)
+		(stroke
+			(width 0.1)
+			(type dash)
+		)
+		(layer "Dwgs.User")
+		(uuid "3c7146b7-2aa3-48a9-8027-2f576112446d")
+	)
+	(gr_line
+		(start 149.075 91.575)
+		(end 152.7 87.95)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "3eae0fb5-6bf4-47ef-a469-db87896c7e62")
+	)
+	(gr_line
+		(start 152.7 87.95)
+		(end 155.5 87.95)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "5a84418d-b616-4886-8fc7-7a4fe37c2987")
+	)
+	(gr_circle
+		(center 146.05 106.05)
+		(end 148.55 106.05)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Dwgs.User")
+		(uuid "6987cf49-ff55-40b1-a7e1-59e372715afd")
+	)
+	(gr_line
+		(start 126.45 106.05)
+		(end 127.45 106.05)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "7a1300ae-59b4-4b10-8aba-e3ec8b9b937c")
+	)
+	(gr_circle
+		(center 126.95 106.05)
+		(end 129.45 106.05)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Dwgs.User")
+		(uuid "8177f03b-7524-4a95-97bb-da5f23333b8f")
+	)
+	(gr_circle
+		(center 146.05 86.95)
+		(end 148.55 86.95)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Dwgs.User")
+		(uuid "84e9e629-02cb-4d29-af76-81d6185205ce")
+	)
+	(gr_line
+		(start 152.8 100.15)
+		(end 155.6 100.15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "8a708dae-6232-4227-9260-194f60b17d1d")
+	)
+	(gr_circle
+		(center 146.05 106.05)
+		(end 147.3 106.05)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Dwgs.User")
+		(uuid "91030ff1-fe2f-4c7d-8346-c44012f5d1f7")
+	)
+	(gr_line
+		(start 149.075 91.575)
+		(end 150.1 91.35)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "91bd55db-6bf0-4f07-9562-3f692c9e08e2")
+	)
+	(gr_line
+		(start 147.275 105.675)
+		(end 150.9 102.05)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "9da82732-d89c-4a81-a2bd-f5606436ea28")
+	)
+	(gr_line
+		(start 146.05 86.45)
+		(end 146.05 87.45)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "a1b9017c-ac14-4552-90f2-313c864851fe")
+	)
+	(gr_line
+		(start 147.275 105.675)
+		(end 147.5 104.65)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "a6d01185-5e28-4b65-aa43-8001194043ea")
+	)
+	(gr_circle
+		(center 126.95 106.05)
+		(end 128.2 106.05)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Dwgs.User")
+		(uuid "aee505d8-e268-4982-b3c9-a8831f7c4f06")
+	)
+	(gr_line
+		(start 126.45 86.95)
+		(end 127.45 86.95)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "b136cec5-bd0d-4f99-8a51-07104093eded")
+	)
+	(gr_line
+		(start 147.275 105.675)
+		(end 148.3 105.45)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "c34a4685-a4bf-4e3d-8862-1473734475ea")
+	)
+	(gr_line
+		(start 151.8 81.2)
+		(end 154.6 81.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "c554a666-a711-4307-9ff2-e33d48b94824")
+	)
+	(gr_line
+		(start 148.175 84.825)
+		(end 151.8 81.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "c8a899c6-64a8-4a59-b84d-ce77770b1ae6")
+	)
+	(gr_line
+		(start 149.075 91.575)
+		(end 149.3 90.55)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "cec0ecd9-1f4f-47fc-98ba-b3fbc1dd2ef0")
+	)
+	(gr_line
+		(start 145.55 86.95)
+		(end 146.55 86.95)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "d242d354-1ec6-4586-a0f0-569d4af77073")
+	)
+	(gr_arc
+		(start 143.1 84.7)
+		(mid 149.94842 97.892833)
+		(end 140.541634 109.402139)
+		(stroke
+			(width 0.1)
+			(type dash)
+		)
+		(layer "Dwgs.User")
+		(uuid "d6c20c90-e760-4eb8-9959-0d97af4d8c2b")
+	)
+	(gr_line
+		(start 150.9 102.05)
+		(end 152.3 100.65)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "dfbaa101-9342-419a-96bf-a0b5e515f7bc")
+	)
+	(gr_line
+		(start 152.3 100.65)
+		(end 152.8 100.15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "e05aeb59-7236-46a5-9905-1f07be45ba7e")
+	)
+	(gr_circle
+		(center 146.05 86.95)
+		(end 147.3 86.95)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Dwgs.User")
+		(uuid "e3ae86c7-08db-4048-bce6-2390ca2da53a")
+	)
+	(gr_line
+		(start 148.175 84.825)
+		(end 149.2 84.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "e6dec25a-1fc8-4fca-bf7c-85c7ac6951c7")
+	)
+	(gr_line
+		(start 145.55 106.05)
+		(end 146.55 106.05)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "fca04fd7-0d08-4cad-b8e8-64d4d0588133")
+	)
+	(gr_line
+		(start 126.95 105.55)
+		(end 126.95 106.55)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "ffa0e982-d8d3-4036-971c-004b1bbee03d")
+	)
+	(gr_line
 		(start 120 82)
 		(end 153 82)
 		(stroke
@@ -7496,6 +7886,17 @@
 		)
 		(layer "Cmts.User")
 		(uuid "99bf9663-b2c6-4bc2-ba71-4b2e5657df5a")
+	)
+	(gr_circle
+		(center 136.5 96.5)
+		(end 150.00574 96.5)
+		(stroke
+			(width 0.1)
+			(type dash)
+		)
+		(fill none)
+		(layer "Cmts.User")
+		(uuid "9befcb9f-7fa4-4bac-bb91-aa0564605d97")
 	)
 	(gr_line
 		(start 145.75 102.25)
@@ -8571,51 +8972,54 @@
 			)
 		)
 	)
-	(dimension
-		(type aligned)
+	(gr_text "⌀ 33.0"
+		(at 151.8 81 0)
 		(layer "Dwgs.User")
-		(uuid "3f505e35-fd28-4f8e-b605-4c9d56efdb70")
-		(pts
-			(xy 126.954058 86.954058) (xy 126.954058 106.045941)
-		)
-		(height -30.045942)
-		(gr_text "19,1 mm"
-			(at 155.85 96.5 90)
-			(layer "Dwgs.User")
-			(uuid "3f505e35-fd28-4f8e-b605-4c9d56efdb70")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
+		(uuid "0b744605-ca0a-4a42-a557-5977e0bb1198")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
+			(justify left bottom)
 		)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 1)
-			(precision 1)
+	)
+	(gr_text "⌀ 27.0"
+		(at 152.7 87.75 0)
+		(layer "Dwgs.User")
+		(uuid "71fc3b65-90af-4daf-9329-558c1b0bd6ff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
 		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(extension_height 0.58642)
-			(extension_offset 0.5) keep_text_aligned)
+	)
+	(gr_text "⌀ 2.5"
+		(at 152.8 99.95 0)
+		(layer "Dwgs.User")
+		(uuid "b2ae6ddc-d830-4523-b053-2fd2d9ee0bb3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
 	)
 	(dimension
 		(type aligned)
 		(layer "Dwgs.User")
-		(uuid "8f90485a-e5ec-4be8-aadd-f7261440518e")
+		(uuid "4b63858d-0e63-465f-96a1-bcdf8ad5aa2a")
 		(pts
-			(xy 150.997902 104.385) (xy 122 104.38114)
+			(xy 150.999999 88.62) (xy 122.000001 88.62)
 		)
-		(height 33.296369)
-		(gr_text "29,0 mm"
-			(at 136.503536 69.936701 -0.007626817541)
+		(height -28.58)
+		(gr_text "29,0"
+			(at 136.5 116.05 0)
 			(layer "Dwgs.User")
-			(uuid "8f90485a-e5ec-4be8-aadd-f7261440518e")
+			(uuid "4b63858d-0e63-465f-96a1-bcdf8ad5aa2a")
 			(effects
 				(font
 					(size 1 1)
@@ -8627,74 +9031,9 @@
 			(prefix "")
 			(suffix "")
 			(units 3)
-			(units_format 1)
+			(units_format 0)
 			(precision 1)
-		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(extension_height 0.58642)
-			(extension_offset 0.5) keep_text_aligned)
-	)
-	(dimension
-		(type aligned)
-		(layer "Dwgs.User")
-		(uuid "ba41c2d1-4aaf-46eb-b4ea-5bfe95b6c937")
-		(pts
-			(xy 146.045941 106.045941) (xy 126.954058 106.045941)
-		)
-		(height 30.545941)
-		(gr_text "19,1 mm"
-			(at 136.499999 74.35 0)
-			(layer "Dwgs.User")
-			(uuid "ba41c2d1-4aaf-46eb-b4ea-5bfe95b6c937")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 1)
-			(precision 1)
-		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(extension_height 0.58642)
-			(extension_offset 0.5) keep_text_aligned)
-	)
-	(dimension
-		(type aligned)
-		(layer "Dwgs.User")
-		(uuid "c5b21670-aa3d-404a-9769-f79753bd90fb")
-		(pts
-			(xy 136 79.991913) (xy 136 113)
-		)
-		(height -25.5)
-		(gr_text "33,0 mm"
-			(at 160.35 96.495957 90)
-			(layer "Dwgs.User")
-			(uuid "c5b21670-aa3d-404a-9769-f79753bd90fb")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 1)
-			(precision 1)
+			(override_value "29,0")
 		)
 		(style
 			(thickness 0.1)
@@ -12466,7 +12805,7 @@
 	(zone
 		(net 2)
 		(net_name "GND")
-		(layers "F&B.Cu")
+		(layers "F.Cu" "B.Cu")
 		(uuid "7c6a1513-3d47-48b0-9e41-e11e5bf96d82")
 		(hatch edge 0.5)
 		(connect_pads thru_hole_only
