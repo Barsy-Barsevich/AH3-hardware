@@ -9,4 +9,9 @@
 - [AH3 software 1st revision manual](./Manual/AH3_soft_revision_1_manual.pdf)
 - [AH3 software 1st revision manual (preliminary edition)](./Manual/AH3_soft_revision_1_manual_preliminary_edition.pdf)
 
+---
+## ⚡️Previous AHx boards
+- [AH1](https://github.com/Barsy-Barsevich/Barsotion-AH1)
+- [AH2](https://github.com/Barsy-Barsevich/Barsotion-AH2)
+
 ![](./Photoes/pic1.jpg)
