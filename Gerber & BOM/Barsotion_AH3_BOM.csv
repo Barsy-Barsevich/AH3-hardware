@@ -1,9 +1,9 @@
-"Reference","Value","Datasheet","Footprint","Qty","DNP"
-"C1,C2,C3,C4,C7,C8","0.1uF","~","Capacitor_SMD:C_0402_1005Metric","6",""
-"C5,C6","12pF","~","Capacitor_SMD:C_0402_1005Metric","2",""
-"D1","Yellow LED","~","LED_SMD:LED_0402_1005Metric","1",""
-"R1,R2,R3,R4,R5","10k","~","Resistor_SMD:R_0402_1005Metric","5",""
-"R6","1k","~","Resistor_SMD:R_0402_1005Metric","1",""
-"U1,U2","BMP388","https://pdf1.alldatasheet.com/datasheet-pdf/download/1132070/BOSCH/BMP388.html","CustomPackage:BMP388","2",""
-"U3","CH32V305GBU6","","Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.4mm_EP2.8x2.8mm","1",""
-"Y1","8MHz","https://www.lcsc.com/datasheet/lcsc_datasheet_2403291505_YXC-Crystal-Oscillators-X32258MOB4SI_C2682775.pdf","Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm","1",""
+Reference,Value,Datasheet,Footprint,Qty,DNP
+"C1,C2,C3,C4,C7,C8",0.1uF,~,Capacitor_SMD:C_0402_1005Metric,6,
+"C5,C6",12pF,~,Capacitor_SMD:C_0402_1005Metric,2,
+D1,Yellow LED,~,LED_SMD:LED_0402_1005Metric,1,
+"R1,R2,R3,R4,R5",10k,~,Resistor_SMD:R_0402_1005Metric,5,
+R6,1k,~,Resistor_SMD:R_0402_1005Metric,1,
+"U1,U2",BMP388,https://pdf1.alldatasheet.com/datasheet-pdf/download/1132070/BOSCH/BMP388.html,CustomPackage:BMP388,2,
+U3,CH32V305GBU6,,Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.4mm_EP2.8x2.8mm,1,
+Y1,8MHz,https://www.lcsc.com/datasheet/lcsc_datasheet_2403291505_YXC-Crystal-Oscillators-X32258MOB4SI_C2682775.pdf,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,1,
